@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @popa39
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-popa39/popa39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in хз
+- 🌱 I’m currently learning хз
+- 💞️ I’m looking to collaborate on хз
+- 📫 How to reach me никак:3
